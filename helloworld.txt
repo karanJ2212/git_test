@@ -1,0 +1,1 @@
+adding all to the staging area with git add.
